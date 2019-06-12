@@ -3,8 +3,6 @@
 ## Goal
 The goal was to write a command line based role playing game.
 
-This project is as a recruitment puzzle and requested stories/constraints are confidential
-
 ## General comments
 * due to shortage of time, working on test is not done, however spock is a great framework to add test in this one with great coverage 
 
